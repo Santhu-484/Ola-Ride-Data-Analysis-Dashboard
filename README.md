@@ -42,7 +42,7 @@ This balanced gender distribution supports targeted marketing and service person
 These categories consistently scored close to 4 stars, indicating strong customer satisfaction.
 
 - **Lowest Rated Category:**
-  - SUV Rentals — indicating the need for service improvement.
+  - SUV Rentals - Indicating the need for service improvement.
 
 ---
 
