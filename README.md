@@ -85,20 +85,20 @@ This highlights a strong opportunity to optimize weekday service and offer tailo
 
 ## 📸 Dashboard Preview
 
-![Ola Dashboard](./Screenshot%202025-06-08%20142147.png)
+![Screenshot 2025-06-08 142147](https://github.com/user-attachments/assets/a74ab8ad-68f3-4734-8c4b-10661b7f2ef3)
 
 ---
 
 ## 📂 Project Goal
 
-The goal of this project is to demonstrate the ability to clean, analyze, and visualize real-world transportation data using Power BI. This dashboard can assist stakeholders in identifying operational trends, customer satisfaction issues, and revenue growth opportunities.
+The goal of this project is to demonstrate the ability to clean, analyze, and visualize real-world transportation data using Power BI. This dashboard helps stakeholders identify operational trends, customer satisfaction issues, and revenue growth opportunities.
 
 ---
 
 ## 💼 Author
 
-**[Your Name]**  
+**[SANTHOSH VOORUGONDA]**  
 Data Analyst | Power BI Enthusiast | Data Storyteller  
-[LinkedIn](https://www.linkedin.com) | [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://www.linkedin.com/in/santhosh484/) | [Portfolio](https://www.datascienceportfol.io/santhoshvooru)
 
 ---
