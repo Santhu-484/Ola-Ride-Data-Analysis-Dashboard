@@ -97,7 +97,7 @@ The goal of this project is to demonstrate the ability to clean, analyze, and vi
 
 ## 💼 Author
 
-**[SANTHOSH VOORUGONDA]**  
+**SANTHOSH VOORUGONDA**  
 Data Analyst | Power BI Enthusiast | Data Storyteller  
 [LinkedIn](https://www.linkedin.com/in/santhosh484/) | [Portfolio](https://www.datascienceportfol.io/santhoshvooru)
 
