@@ -86,6 +86,8 @@ This highlights a strong opportunity to optimize weekday service and offer tailo
 ## 📸 Dashboard Preview
 
 ![Screenshot 2025-06-08 142147](https://github.com/user-attachments/assets/a74ab8ad-68f3-4734-8c4b-10661b7f2ef3)
+![Screenshot 2025-06-09 152113](https://github.com/user-attachments/assets/7bf74094-1931-41d2-bf90-ad642c525354)
+
 
 ---
 
